@@ -41,5 +41,7 @@ Welcome to my GitHub profile! I'm a passionate Data Science student specializing
 ## 📫 Get In Touch
 - 📧 **Email**: [imen.bnamar@gmail.com](mailto:imen.bnamar@gmail.com)
 - 🔗 **LinkedIn**: [Imen Benamar](https://www.linkedin.com/in/imen-benamar-616079212/)
+- 🔗 **Kaggle**: [Imen BenAmar1](https://www.kaggle.com/imenbenamar1)
 
+  
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
