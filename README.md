@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate Data Science student specializing
 - 🔍 **Passionate About**: Machine Learning, Deep Learning, Big Data, and Python Development.
 - 💡 **Currently Learning**: Advanced techniques in ML and exploring Big Data technologies.
 - 🌱 **Learning New Skills**: Data Engineering, Cloud Computing, and Data Visualization.
-- 📈 **Favorite Tools**: TensorFlow, Keras, PyTorch, Scikit-Learn, Apache Spark, and Pandas.
+- 📈 **Favorite Tools**: TensorFlow, Keras, PyTorch, Scikit-Learn,and Pandas.
 ------------------------------------------------------------------------------------------------------------------------------------------
 ![image](https://github.com/user-attachments/assets/926b62da-fefe-4d69-8de6-b68a43d61b2d)
 
@@ -32,11 +32,6 @@ Welcome to my GitHub profile! I'm a passionate Data Science student specializing
 - 🔬 **Research Experience**: Conducted research on improving model accuracy and generalization.
 - 🌐 **Open Source Contributions**: Contributed to various open-source projects related to data science and machine learning.
 
-
-
-## 📈 Stats
-
-![Your Stats](https://github-readme-stats.vercel.app/api?username=ImenBenAmar&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=radical)
 
 ## 📫 Get In Touch
 - 📧 **Email**: [imen.bnamar@gmail.com](mailto:imen.bnamar@gmail.com)
