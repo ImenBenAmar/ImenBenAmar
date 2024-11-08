@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a passionate Data Science student specializing
 - **Description**: A real-time facial recognition system using Dlib ,svm classifier and Opencv, integrated with a SQL Server database.
 - **Key Features**: Real-time predictions, model optimization, and data preprocessing.
 ### [Machine Learning Models](https://github.com/ImenBenAmar/Machine_Learning)
-- **Description**: This project aims to help beginners understand machine learning concepts through practical examples of linear regression, multiple regression, and classification models.
+- **Description**: This project aims to understand machine learning concepts through practical examples of linear regression, multiple regression, and classification models.
 - **Key Features** : data preprocessing , data visualization , data cleaning , modelling , model evaluation , standarization , classification , prediction 
 ## 🛠️ Skills & Technologies
 
