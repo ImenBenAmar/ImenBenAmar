@@ -35,9 +35,9 @@ Welcome to my GitHub profile! I'm a passionate Data Science student specializing
 ### **Libraries/Frameworks**
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/scikit_learn/scikit_learn-ar21.svg"></code>
+<code><img width="10%" src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo-notext.png"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/pandas/pandas-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/usepanda/usepanda-ar21.svg"></code>
 
 ### **Big Data Technologies**
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
@@ -46,14 +46,14 @@ Welcome to my GitHub profile! I'm a passionate Data Science student specializing
 ### **Tools**
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/google_colab/google_colab-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
 
 ### **Databases**
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_sql_server/microsoft_sql_server-ar21.svg"></code>
+<code><img width="10%" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"></code>
 
 
 ## 🌟 Highlights
