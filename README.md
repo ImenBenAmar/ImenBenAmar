@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate Data Science student specializing
 
 ## 🚀 About Me
 
-- 🎓 **Currently Studying**: Data Science with a focus on Machine Learning and Deep Learning.
+- 🎓 **Currently Studying**: Data Science with a focus on Machine Learning, Deep Learning and big data .
 - 🔍 **Passionate About**: Machine Learning, Deep Learning, Big Data, and Python Development.
 - 💡 **Currently Learning**: Advanced techniques in ML and exploring Big Data technologies.
 - 🌱 **Learning New Skills**: Data Engineering, Cloud Computing, and Data Visualization.
@@ -23,11 +23,11 @@ Welcome to my GitHub profile! I'm a passionate Data Science student specializing
 - **Key Features** : data preprocessing , data visualization , data cleaning , modelling , model evaluation , standarization , classification , prediction 
 ## 🛠️ Skills & Technologies
 
-- **Languages**: Python, SQL
+- **Languages**: Python,R,SQL,HTML,JS,JAVA,KOTLIN
 - **Libraries/Frameworks**: TensorFlow, Keras, PyTorch, Scikit-Learn, NumPy, Pandas
 - **Big Data Technologies**: Apache Spark, Hadoop
-- **Tools**: Jupyter, Git, Docker, Flask
-- **Databases**: SQL Server, MySQL
+- **Tools**: Jupyter, Git,Flask,Google colab,flutter
+- **Databases**: SQL Server, MySQL , MongoDB
 
 ## 🌟 Highlights
 
