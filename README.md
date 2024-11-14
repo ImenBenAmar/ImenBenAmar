@@ -20,7 +20,10 @@ Welcome to my GitHub profile! I'm a passionate Data Science student specializing
 | Project | Description | Key Features |
 |---------|-------------|--------------|
 | [**Facial Recognition System**](https://github.com/ImenBenAmar/face_identification) | A real-time facial recognition system using Dlib, SVM classifier, and OpenCV, integrated with a SQL Server database. | Real-time predictions, model optimization, and data preprocessing |
-| [**Machine Learning Models**](https://github.com/ImenBenAmar/Machine_Learning) | A project to understand machine learning concepts through practical examples of linear regression, multiple regression, and classification models. | Data preprocessing, data visualization, data cleaning, modeling, model evaluation, standardization, classification, and prediction |
+| [**Machine Learning Models**](https://github.com/ImenBenAmar/Machine_Learning) | A collection of notebooks designed to deepen understanding of machine learning concepts through practical examples, including linear regression, multiple regression, and classification models. | Data preprocessing, data visualization, data cleaning, modeling, model evaluation, standardization, classification, and prediction |
+
+| [**Deep Learning Projects**](https://github.com/ImenBenAmar/Deep_learning) | Contains various projects focused on implementing different architectures of neural networks. | Topics include convolutional neural networks (CNNs), recurrent neural networks (RNNs), transfer learning, and model optimization techniques |
+
 
 ## 🛠️ Skills & Technologies
 
