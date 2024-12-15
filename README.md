@@ -41,9 +41,7 @@ Welcome to my GitHub profile! I'm a passionate Data Science student specializing
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/usepanda/usepanda-ar21.svg"></code>
 
-### **Big Data Technologies**
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></code>
+
 
 ### **Tools**
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
