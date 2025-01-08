@@ -19,10 +19,11 @@ Welcome to my GitHub profile! I'm a passionate Data Science student specializing
 
 | Project | Description | Key Features |
 |---------|-------------|--------------|
-| [**Facial Recognition System**](https://github.com/ImenBenAmar/face_identification) | A real-time facial recognition system using Dlib, SVM classifier, and OpenCV, integrated with a SQL Server database. | Real-time predictions, model optimization, and data preprocessing |
-| [**Machine Learning Models**](https://github.com/ImenBenAmar/Machine_Learning) | A collection of notebooks designed to deepen understanding of machine learning concepts through practical examples, including linear regression, multiple regression, and classification models. | Data preprocessing, data visualization, data cleaning, modeling, model evaluation, standardization, classification, and prediction |
-| [**Deep Learning Projects**](https://github.com/ImenBenAmar/Deep_learning) | Contains various projects focused on implementing different architectures of neural networks. | Topics include convolutional neural networks (CNNs), recurrent neural networks (RNNs), transfer learning, and model optimization techniques |
-| [**Sign Language Detection**](https://github.com/ImenBenAmar/Sign_language) | A sign language detection system developed using CNN and Mediapipe approaches. | CNN with Gaussian blur, data augmentation, histogram equalization, Mediapipe hand landmark extraction, and Random Forest classification |
+| [**Facial Recognition System**](https://github.com/ImenBenAmar/face_identification) | Real-time facial recognition system using Dlib, SVM, and OpenCV. | Real-time predictions, model optimization |
+| [**Machine Learning Models**](https://github.com/ImenBenAmar/Machine_Learning) | Practical ML examples: regression, classification, etc. | Preprocessing, visualization, modeling |
+| [**Deep Learning Projects**](https://github.com/ImenBenAmar/Deep_learning) | Neural network architectures (CNNs, RNNs, etc.). | Transfer learning, optimization |
+| [**Sign Language Detection**](https://github.com/ImenBenAmar/Sign_language) | Sign language detection with CNN and Mediapipe. | Data augmentation, hand landmarks |
+
 
 
 
