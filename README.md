@@ -19,9 +19,8 @@ Welcome to my GitHub profile! I'm a passionate Data Science student specializing
 
 | Project | Description | Key Features |
 |---------|-------------|--------------|
+| [**Automated-ECG-Interpretation**](https://github.com/ImenBenAmar/PFA_ECG) | Extraction of 11 ECG parameters and classification of 5 pathologies.  | Resnet18, MLP, multimodel, ECG, CNN  |
 | [**Facial Recognition System**](https://github.com/ImenBenAmar/face_identification) | Real-time facial recognition system using Dlib, SVM, and OpenCV. | Real-time predictions, model optimization |
-| [**Machine Learning Models**](https://github.com/ImenBenAmar/Machine_Learning) | Practical ML examples: regression, classification, etc. | Preprocessing, visualization, modeling |
-| [**Deep Learning Projects**](https://github.com/ImenBenAmar/Deep_learning) | Neural network architectures (CNNs, RNNs, etc.). | Transfer learning, optimization |
 | [**Sign Language Detection**](https://github.com/ImenBenAmar/Sign_language) | Sign language detection with CNN and Mediapipe. | Data augmentation, hand landmarks |
 
 
