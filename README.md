@@ -12,7 +12,6 @@ Welcome to my GitHub profile! I'm a passionate Data Science student specializing
 - ![Tools](https://img.shields.io/badge/📈_Favorite_Tools-TensorFlow,_Keras,_Scikit_Learn-green)
 
 ------------------------------------------------------------------------------------------------------------------------------------------
-![image](https://github.com/user-attachments/assets/926b62da-fefe-4d69-8de6-b68a43d61b2d)
 
 
 ## 📚 Projects
