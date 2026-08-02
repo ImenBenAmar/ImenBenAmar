@@ -34,7 +34,7 @@
 
 <img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-**Data Science Student & ML Engineer** specializing in production-grade AI systems and real-time data pipelines.
+**Data Science & MLOps Engineer** specializing in production-grade AI systems and real-time data pipelines.
 
 **Core Expertise:**
 - 🤖 Machine Learning & Deep Learning
